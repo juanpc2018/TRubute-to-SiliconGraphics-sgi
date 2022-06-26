@@ -26,4 +26,5 @@ Sparking the 3D Revolution of Today.
 
 You can feel the Magic of those Years even Today, their goal to create a better world, not more spyware bullshit.
 
-Asteroids 3D game for SGI Unix still amazing today.
+Blast an Asteroids 3D game for SGI Unix still amazing today.
+https://youtu.be/Bo3lUw9GUJA?t=1141
