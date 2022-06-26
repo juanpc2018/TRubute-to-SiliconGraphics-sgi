@@ -37,3 +37,4 @@ http://archive.irix.cc/
 http://irixnet.org/
 http://archive.irixnet.org/sgistuff/software/index.html
 https://archive.org/search.php?query=irix
+http://nonfree.irix.cc/
