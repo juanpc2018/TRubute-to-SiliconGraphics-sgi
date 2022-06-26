@@ -37,5 +37,6 @@ http://archive.irix.cc/
 http://irixnet.org/
 http://archive.irixnet.org/sgistuff/software/index.html
 https://archive.org/search.php?query=irix
-http://nonfree.irix.cc/
 http://www.sgistuff.net/software/otheros/index.html
+http://sgifiles.irixnet.org/
+http://nonfree.irix.cc/
