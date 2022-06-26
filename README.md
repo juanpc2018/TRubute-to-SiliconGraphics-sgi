@@ -32,7 +32,7 @@ https://youtu.be/Bo3lUw9GUJA?t=1141
 Still some people are developing for SGI IRIX 6.5.030 RSE 007
 https://forums.sgi.sh/index.php?ewr-carta/portingbible/
 https://forums.sgi.sh/index.php?threads/porttool-ports-sgi-sh-package-upload-removal-timestamp-helper.3/
-irix.fun
+https://irix.fun/2018/12/08/hello-world/
 http://archive.irix.cc/
 http://irixnet.org/
 http://archive.irixnet.org/sgistuff/software/index.html
