@@ -35,3 +35,4 @@ https://forums.sgi.sh/index.php?threads/porttool-ports-sgi-sh-package-upload-rem
 irix.fun
 http://archive.irix.cc/
 http://irixnet.org/
+http://archive.irixnet.org/sgistuff/software/index.html
