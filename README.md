@@ -44,6 +44,7 @@ https://archive.org/search.php?query=irix
 http://www.sgistuff.net/software/otheros/index.html
 http://sgifiles.irixnet.org/
 http://nonfree.irix.cc/
+http://techpubs.spinlocksolutions.com/irix/remote-irix-6.5-installation-from-linux.html
 
 Complete History
 https://youtu.be/lEcw_oTKTa0
